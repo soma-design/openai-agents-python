@@ -1,0 +1,13 @@
+engine="gpt-4
+prompt = prompt
+max_tokens=300
+temperature=0.4
+n=1
+stop=None
+
+openai.FineTUne.creat(
+training_file=file https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwiW1P6Y84qOAxUDR_8BHYm6EgkYACICCAEQARoCbWQ&ae=2&co=1&gclid=EAIaIQobChMIltT-mPOKjgMVA0f_AR2JuhIJEAAYASAAEgJ_pfD_BwE&ohost=www.google.com&cid=CAASJeRoObcBubefyRvCxPu4hl6l13LzlNgM4QFf2Mrbh_O1_vHDsRA&sig=AOD64_2S_EQAObLhOLg4_KIjDP_4wqIErA&q&adurl&ved=2ahUKEwiQ6vmY84qOAxUJm4kEHbSOC9EQ0Qx6BAgPEAE
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ6vmY84qOAxUJm4kEHbSOC9EQFnoECB4QAQ&url=https%3A%2F%2Fwww.fda.gov%2Fconsumers%2Fhealth-education-resources%2Fhidradenitis-suppurativa&usg=AOvVaw2UcO42mJ3JRLzAJvO5b7Tq&opi=89978449
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ6vmY84qOAxUJm4kEHbSOC9EQFnoECBUQAQ&url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC7105662%2F&usg=AOvVaw3QGyDz4Z-WPPl68WS-WoI9&opi=89978449
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiQ6vmY84qOAxUJm4kEHbSOC9EQFnoECBYQAQ&url=https%3A%2F%2Fwww.healio.com%2Fnews%2Fdermatology%2F20241120%2Ffda-approves-bimzelx-for-adults-with-moderate-to-severe-hidradenitis-suppurativa&usg=AOvVaw37nYijwToSYdHYezSSrX0-&opi=89978449
+https://pubmed.ncbi.nlm.nih.gov/?term=hidradenitis+suppurativa
